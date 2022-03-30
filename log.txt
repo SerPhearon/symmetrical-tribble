@@ -1,0 +1,895 @@
+03-30 01:15:00.516  1520  1563 W BroadcastQueue: Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } from null (pid=-1, uid=-1) requires com.facebook.permission.prod.FB_APP_COMMUNICATION due to registered receiver BroadcastFilter{fe03099 99910197/u999 ReceiverList{91845e0 12519 com.facebook.katana/99910197/u999 remote:a0fd7e3}}
+03-30 01:15:15.696  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:15:20.921  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 TRNB bg:+5s85ms procs:1 seq(0,0,0)}
+03-30 01:15:32.451  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:15:37.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=1591, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10207] ]
+03-30 01:15:42.293  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:15:48.144  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:15:55.253  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:15:55.253  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:16:00.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ REQUEST id=10, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+03-30 01:16:00.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=11, [ Transports: CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 1000] ]
+03-30 01:16:00.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=12, [ Capabilities: NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 1000] ]
+03-30 01:16:08.897  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:16:16.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=70, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10172] ]
+03-30 01:16:16.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=71, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10172] ]
+03-30 01:16:26.926  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  bg:+18s757ms procs:1 seq(0,0,0)}
+03-30 01:16:33.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=1194, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10200] ]
+03-30 01:16:33.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=1197, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10200] ]
+03-30 01:16:34.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=1679, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10202] ]
+03-30 01:16:35.505  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:16:42.568  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:16:48.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=1698, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10179] ]
+03-30 01:16:49.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=1678, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10202] ]
+03-30 01:16:53.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=1194, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10200] ]
+03-30 01:16:54.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=123, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 99910172] ]
+03-30 01:16:55.844  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:16:55.844  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:16:58.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=1678, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10202] ]
+03-30 01:16:59.197  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:17:02.133  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:17:11.967  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:17:28.706  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:17:55.309  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:17:56.188  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  bg:+24s212ms procs:1 seq(0,0,0)}
+03-30 01:18:02.293  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:18:02.293  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ REQUEST id=10, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=11, [ Transports: CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 1000] ]
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=12, [ Capabilities: NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 1000] ]
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ TRACK_DEFAULT id=13, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 1000] ]
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=14, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&VALIDATED Uid: 1000] ]
+03-30 01:18:08.563  1520  1733 D ConnectivityService: sending notification CALLBACK_CAP_CHANGED for NetworkRequest [ LISTEN id=15, [ Capabilities: NOT_RESTRICTED&TRUSTED&NOT_VPN&FOREGROUND Uid: 10143] ]
+03-30 01:18:08.609  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 TRNB whitelist procs:1 seq(0,0,0)}
+03-30 01:18:21.910  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:18:33.891  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 TRNB bg:+5s268ms procs:1 seq(0,0,0)}
+03-30 01:18:34.808  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.katana ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{47898a6 u0a197 TOP  procs:1 seq(0,0,0)}
+03-30 01:18:44.121  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:18:48.514  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:18:56.563  1520  1520 D _V_DisplayPowerControllerImpl: mSettingBrightness = 5 as request 4
+03-30 01:19:00.140  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:19:00.236  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.orca ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9e0af7a u0a208 SVC  bg:+30m45s813ms idle procs:1 seq(0,0,0)}
+03-30 01:19:02.767  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:19:02.767  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:19:11.416  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:19:15.117  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:19:25.798  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:19:38.934  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  whitelist procs:1 seq(0,0,0)}
+03-30 01:19:41.308  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BTOP procs:5 seq(0,0,0)}
+03-30 01:19:41.308  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.google.android.gms/.gcm.nts.SchedulerReceiver
+03-30 01:19:41.308  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BTOP procs:5 seq(0,0,0)}
+03-30 01:19:41.309  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:19:41.337  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.projection.gearhead ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:19:41.337  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.google.android.projection.gearhead/com.google.android.apps.auto.components.connectivity.impl.ConnectivityEventHandlerImpl$ConnectivityEventBroadcastReceiver
+03-30 01:19:41.337  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.gallery ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:19:41.337  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.vivo.gallery/com.android.gallery3d.vivo.PowerEventBroadcastReceiver
+03-30 01:19:41.338  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.katana ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{47898a6 u0a197 TOP  procs:1 seq(0,0,0)}
+03-30 01:19:41.338  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.facebook.katana/com.facebook.battery.monitor.ContinuousBatteryMonitorService$BroadcastReceiver
+03-30 01:19:41.338  1520  1563 D _V_ActivityManager: StartMode packageName = com.opera.browser ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:19:41.338  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.opera.browser/com.opera.android.news.newsfeed.internal.NewsFeedSystemReceiver
+03-30 01:19:41.338  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{8510da3 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:19:41.338  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.uc.browser.en/com.uc.browser.bgprocess.BackgroundProcessBroadcastReveiver
+03-30 01:19:41.339  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{8510da3 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:19:41.339  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.uc.browser.en/com.uc.ud.UdReceiver
+03-30 01:19:41.353  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:1 seq(0,0,0)}
+03-30 01:19:41.353  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.google.android.gms/.gcm.nts.SchedulerReceiver
+03-30 01:19:41.353  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:1 seq(0,0,0)}
+03-30 01:19:41.353  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:19:41.354  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.gallery ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:19:45.676  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:45.812  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:46.160  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:46.177  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:46.563  2385  2385 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1086 android.content.ContextWrapper.sendBroadcast:453 com.vivo.daemonService.bbkcloud.BBKCloudReceiver.a:71 com.vivo.daemonService.bbkcloud.BBKCloudReceiver.onReceive:47 android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args:1618 
+03-30 01:19:46.780  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.carrierdefaultapp ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:19:49.168  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:50.898  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:19:52.373  1520  1563 D _V_ActivityManager: StartMode packageName = com.bbk.updater ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d48a311 u0a139 SVC  bg:+22h56m47s729ms idle change:idle procs:2 seq(0,0,0)}
+03-30 01:19:53.563  1520  1590 I PowerManagerService: Sleeping (uid 1000)...
+03-30 01:19:53.563  1520  1590 I PowerManagerService: setWakefulnessLocked = Asleep
+03-30 01:19:54.513  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.phone ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:19:55.761  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:19:56.883  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:5 seq(0,0,0)}
+03-30 01:19:57.203  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:5 seq(0,0,0)}
+03-30 01:19:57.312  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:19:58.739  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.safecenter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{2058268 u0a77 SVC  idle procs:1 seq(0,0,0)}
+03-30 01:19:59.262  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.networkimprove ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{8ee6a90 u0a116 CEM  idle change:cached procs:1 seq(0,0,0)}
+03-30 01:19:59.475  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.mlite ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{77f6e08 u0a209 LAST idle change:cached procs:1 seq(0,0,0)}
+03-30 01:20:00.589  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{8510da3 u0a202 BFGS change:active|uncached procs:4 seq(0,0,0)}
+03-30 01:20:02.704  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.contentcatcher ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:20:02.704  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.vivo.contentcatcher/.daemon.BootCompleteReceiver
+03-30 01:20:02.709  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.chrome ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:20:02.709  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.android.chrome/org.chromium.chrome.browser.sharing.click_to_call.ClickToCallMessageHandler$PhoneUnlockedReceiver
+03-30 01:20:02.717  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.services ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:20:02.717  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.facebook.services/com.facebook.oxygen.services.fbns.RegisteredMqttSystemBroadcastReceiver
+03-30 01:20:02.717  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:02.717  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.google.android.gms/.auth.setup.devicesignals.LockScreenReceiver
+03-30 01:20:02.877  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:02.878  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:20:02.942  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:20:02.942  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:20:02.951  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.safecenter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{2058268 u0a77 SVC  idle procs:1 seq(0,0,0)}
+03-30 01:20:02.951  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.vivo.safecenter/.receiver.SafeCenterReceiver
+03-30 01:20:02.952  1520  1563 D _V_ActivityManager: StartMode packageName = com.opera.browser ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:20:02.952  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.opera.browser/com.opera.android.gcm.PushNotificationSystemReceiver
+03-30 01:20:02.952  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.chrome ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:20:02.952  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.android.chrome/org.chromium.chrome.browser.sharing.click_to_call.ClickToCallMessageHandler$PhoneUnlockedReceiver
+03-30 01:20:02.993  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:5 seq(0,0,0)}
+03-30 01:20:02.993  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.google.android.gms/.auth.setup.devicesignals.LockScreenReceiver
+03-30 01:20:02.993  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 FGS  procs:5 seq(0,0,0)}
+03-30 01:20:02.993  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.USER_PRESENT flg=0x4200010 } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:20:02.994  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:03.260  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:20:03.260  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:20:04.360  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:04.360  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+03-30 01:20:04.361  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:04.361  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:20:04.484  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:04.484  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+03-30 01:20:04.485  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:04.485  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:20:05.573  1520  1563 V ActivityManager: Attempted to start a foreground service (com.android.bbkmusic/.service.MusicService) with a broken notification (no icon: Notification(channel=com.android.bbkmusic.PLAY_ID pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE internalType=0 internalPriority=0 internalGroupPriority=0 internalFlag=0))
+03-30 01:20:07.366  1520  1563 I ActivityManager: Waited long enough for: ServiceRecord{b8ec394 u0 com.vivo.audiofx/.AudioFxService}
+03-30 01:20:08.319  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:20:11.563  1520  1590 D _V_DisplayPowerControllerImpl: updatePowerState use=false enabled=false  state=ON
+03-30 01:20:12.710  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:20:19.428  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:20:19.428  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.uc.browser.en flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:20:20.879  1520  2616 W ActivityManager: Receiver with filter android.content.IntentFilter@5634945 already registered for pid 14509, callerPackage is com.uc.browser.en
+03-30 01:20:30.056  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{197c316 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:20:30.562  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{197c316 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:20:34.929  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:20:44.356  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 FGSL procs:5 seq(0,0,0)}
+03-30 01:21:01.533  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:21:17.820  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = false ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  bg:+1m0s12ms idle procs:1 seq(0,0,0)}
+03-30 01:21:17.820  1520  1563 W ActivityManager: Stopping service due to app idle: u0a207 -2h45m59s507ms org.telegram.messenger/.NotificationsService
+03-30 01:21:17.862  1520  1563 D _V_ActivityManager: StartMode packageName = org.telegram.messenger ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{49a60b4 u0a207 SVC  bg:+1m0s54ms idle change:idle procs:1 seq(0,0,0)}
+03-30 01:21:17.862  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=org.telegram.start flg=0x10 } to org.telegram.messenger/.AppStartReceiver
+03-30 01:21:18.055  1520  1563 D _V_ActivityManager: StartMode packageName = com.facebook.katana ,pid = -1 ,alwaysRestrict = false ,startMode = 2 ,UidRec:UidRecord{47898a6 u0a197 SVC  bg:+1m0s33ms idle procs:1 seq(0,0,0)}
+03-30 01:21:18.056  1520  1563 W ActivityManager: Stopping service due to app idle: u0a197 -5h1m35s411ms com.facebook.katana/com.facebook.mqttlite.MqttService
+03-30 01:21:28.142  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:21:54.742  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:22:21.337  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:22:47.946  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:23:14.553  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:23:41.152  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:24:07.758  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:24:34.362  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:24:46.497  1520  1563 W _V_VivoAmsImpl: mCallingPidFilter=-1,mCallingUidFilter=-1
+03-30 01:24:48.696  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:24:48.696  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:25:00.960  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:25:19.025  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.pem ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:25:19.666  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:25:19.666  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.facebook.mlite flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:25:27.574  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:25:54.171  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:26:20.772  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:26:47.377  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:27:13.980  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:27:40.571  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:28:07.179  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:28:33.891  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:28:48.392  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:28:48.392  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:29:00.398  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:29:26.990  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:29:53.593  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:30:19.744  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:30:19.744  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.uc.browser.en flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:30:20.191  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:30:30.232  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a751105 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:30:30.712  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a751105 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:30:46.798  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:31:13.407  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:31:40.005  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:32:06.614  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:32:33.219  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:32:48.354  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:32:48.354  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:32:59.807  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:33:26.416  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:33:53.023  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:34:19.625  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:34:46.233  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:35:12.835  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:35:19.380  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.doubletimezoneclock ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9f93938 u0a117 BFGS procs:1 seq(0,0,0)}
+03-30 01:35:20.057  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 BFGS procs:5 seq(0,0,0)}
+03-30 01:35:20.470  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 BFGS procs:5 seq(0,0,0)}
+03-30 01:35:21.036  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 BFGS procs:5 seq(0,0,0)}
+03-30 01:35:21.150  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.241  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.241  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+03-30 01:35:21.243  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.243  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:35:21.522  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{23b56b4 u999a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.599  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.599  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+03-30 01:35:21.600  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:21.600  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+03-30 01:35:22.241  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:6 seq(0,0,0)}
+03-30 01:35:23.338  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:23 seq(0,0,0)}
+03-30 01:35:23.338  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:35:39.428  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:36:06.035  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:36:32.674  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:36:59.245  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:37:18.141  1520  1563 W _V_VivoAmsImpl: mCallingPidFilter=-1,mCallingUidFilter=-1
+03-30 01:37:21.899  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.apps.youtube.music ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{380cdaf u0a90 CEM  idle change:cached procs:1 seq(0,0,0)}
+03-30 01:37:25.917  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:37:45.244  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.networkimprove ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:null
+03-30 01:37:45.846  1520  1563 D _V_ActivityManager: StartMode packageName = com.bbk.iqoo.logsystem ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a4463c9 u0a143 PER  change:active|uncached procs:1 seq(0,0,0)}
+03-30 01:37:52.450  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:38:03.033   762 13859 V MediaCodec: -- Looking at startdata. presentation 1815639551, start 81516730923165, so  match entry
+03-30 01:38:08.973   762 13859 V MediaCodec: -- Looking at startdata. presentation 1821569346, start 81522670956396, so  match entry
+03-30 01:38:10.060   762 13859 V MediaCodec: -- Looking at startdata. presentation 1822666489, start 81523756361242, so  match entry
+03-30 01:38:13.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1826088530, start 81527005860858, so  match entry
+03-30 01:38:19.046  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:38:21.261   762 13859 V MediaCodec: -- Looking at startdata. presentation 1833951387, start 81534956380397, so  match entry
+03-30 01:38:24.078   762 13859 V MediaCodec: -- Looking at startdata. presentation 1836563632, start 81537501177012, so  match entry
+03-30 01:38:26.361   762 13859 V MediaCodec: -- Looking at startdata. presentation 1839019142, start 81540056362474, so  match entry
+03-30 01:38:29.173   762 13859 V MediaCodec: -- Looking at startdata. presentation 1841814244, start 81542870256320, so  match entry
+03-30 01:38:31.165   762 13859 V MediaCodec: -- Looking at startdata. presentation 1843851795, start 81544856346859, so  match entry
+03-30 01:38:31.974   762 13857 V AudioSink: getPlayedOutDurationUs(1122219841) nowUs(81545675630) frames(49488016) framesAt(81545633022)
+03-30 01:38:35.911   762 13857 V AudioSink: getPlayedOutDurationUs(1126156391) nowUs(81549612185) frames(49663205) framesAt(81549605567)
+03-30 01:38:36.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 1848788938, start 81549895632705, so  match entry
+03-30 01:38:36.765   762 13859 V MediaCodec: -- Looking at startdata. presentation 1849363632, start 81550456355090, so  match entry
+03-30 01:38:37.055   762 13857 V AudioSink: getPlayedOutDurationUs(1127300564) nowUs(81550756361) frames(49713815) framesAt(81550753189)
+03-30 01:38:41.867   762 13859 V MediaCodec: -- Looking at startdata. presentation 1854588122, start 81555563763783, so  match entry
+03-30 01:38:42.692   762 13857 V AudioSink: getPlayedOutDurationUs(1132937294) nowUs(81556393117) frames(49962289) framesAt(81556387546)
+03-30 01:38:42.712   762 13859 V MediaCodec: -- Looking at startdata. presentation 1855319551, start 81556399832090, so  match entry
+03-30 01:38:42.712   762 13859 V MediaCodec: -- Looking at startdata. presentation 1855345673, start 81556405639244, so  match entry
+03-30 01:38:42.712   762 13857 V AudioSink: getPlayedOutDurationUs(1132958040) nowUs(81556413863) frames(49962289) framesAt(81556387546)
+03-30 01:38:42.987   762 13859 V MediaCodec: -- Looking at startdata. presentation 1855633020, start 81556684624783, so  match entry
+03-30 01:38:43.821   762 13859 V MediaCodec: -- Looking at startdata. presentation 1856312204, start 81557255969629, so  match entry
+03-30 01:38:43.822   762 13859 V MediaCodec: -- Looking at startdata. presentation 1856338326, start 81557260166321, so  match entry
+03-30 01:38:43.828   762 13859 V MediaCodec: -- Looking at startdata. presentation 1856364448, start 81557262140706, so  match entry
+03-30 01:38:43.832   762 13859 V MediaCodec: -- Looking at startdata. presentation 1856390571, start 81557518758167, so  match entry
+03-30 01:38:45.652  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:38:47.799   762 13859 V MediaCodec: -- Looking at startdata. presentation 1860335061, start 81561238563937, so  match entry
+03-30 01:38:49.493   762 13857 V AudioSink: getPlayedOutDurationUs(1139738674) nowUs(81563194467) frames(50261396) framesAt(81563169988)
+03-30 01:38:49.503   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862111387, start 81563199831783, so  match entry
+03-30 01:38:49.507   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862137510, start 81563202439399, so  match entry
+03-30 01:38:49.508   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862163632, start 81563203439475, so  match entry
+03-30 01:38:49.509   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862189755, start 81563205649552, so  match entry
+03-30 01:38:49.510   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862215877, start 81563207144399, so  match entry
+03-30 01:38:49.512   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862242000, start 81563209133168, so  match entry
+03-30 01:38:49.765   762 13857 V AudioSink: getPlayedOutDurationUs(1140010495) nowUs(81563466300) frames(50272900) framesAt(81563430861)
+03-30 01:38:49.769   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862268122, start 81563210626552, so  match entry
+03-30 01:38:49.772   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862294244, start 81563211941552, so  match entry
+03-30 01:38:49.772   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862320367, start 81563212979552, so  match entry
+03-30 01:38:49.774   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862346489, start 81563215005322, so  match entry
+03-30 01:38:49.776   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862372612, start 81563471664629, so  match entry
+03-30 01:38:49.780   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862398734, start 81563474133552, so  match entry
+03-30 01:38:49.780   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862424857, start 81563475229629, so  match entry
+03-30 01:38:49.784   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862450979, start 81563478476399, so  match entry
+03-30 01:38:49.784   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862477102, start 81563479179937, so  match entry
+03-30 01:38:49.786   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862503224, start 81563482460629, so  match entry
+03-30 01:38:50.038   762 13857 V AudioSink: getPlayedOutDurationUs(1140283695) nowUs(81563739498) frames(50284091) framesAt(81563684623)
+03-30 01:38:50.047   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862529346, start 81563483296937, so  match entry
+03-30 01:38:50.048   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862555469, start 81563485827937, so  match entry
+03-30 01:38:50.050   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862581591, start 81563486624706, so  match entry
+03-30 01:38:50.062   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862607714, start 81563488270629, so  match entry
+03-30 01:38:50.063   762 13857 V AudioSink: getPlayedOutDurationUs(1140308755) nowUs(81563764556) frames(50286767) framesAt(81563745302)
+03-30 01:38:50.063   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862633836, start 81563750173552, so  match entry
+03-30 01:38:50.080   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862659959, start 81563752896629, so  match entry
+03-30 01:38:50.081   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862686081, start 81563753698014, so  match entry
+03-30 01:38:50.081   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862712204, start 81563767565245, so  match entry
+03-30 01:38:50.081   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862738326, start 81563769301629, so  match entry
+03-30 01:38:50.084   762 13857 V AudioSink: getPlayedOutDurationUs(1140329464) nowUs(81563785264) frames(50288376) framesAt(81563781786)
+03-30 01:38:50.088   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862764448, start 81563782950168, so  match entry
+03-30 01:38:50.089   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862790571, start 81563784233091, so  match entry
+03-30 01:38:50.089   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862816693, start 81563785916399, so  match entry
+03-30 01:38:50.093   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862842816, start 81563786964322, so  match entry
+03-30 01:38:50.349   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862868938, start 81563790435552, so  match entry
+03-30 01:38:50.352   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862895061, start 81563791357168, so  match entry
+03-30 01:38:50.352   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862921183, start 81563791751629, so  match entry
+03-30 01:38:50.353   762 13859 V MediaCodec: -- Looking at startdata. presentation 1862947306, start 81563794839552, so  match entry
+03-30 01:38:51.747   762 13859 V MediaCodec: -- Looking at startdata. presentation 1864357918, start 81565438756399, so  match entry
+03-30 01:38:53.136   762 13859 V MediaCodec: -- Looking at startdata. presentation 1865637918, start 81566576589091, so  match entry
+03-30 01:38:53.449   762 13859 V MediaCodec: -- Looking at startdata. presentation 1866212612, start 81567144755630, so  match entry
+03-30 01:38:55.123   762 13859 V MediaCodec: -- Looking at startdata. presentation 1867727714, start 81568813935630, so  match entry
+03-30 01:38:55.388   762 13857 V AudioSink: getPlayedOutDurationUs(1145633579) nowUs(81569089356) frames(50521225) framesAt(81569061786)
+03-30 01:38:55.967   762 13859 V MediaCodec: -- Looking at startdata. presentation 1868563632, start 81569657939784, so  match entry
+03-30 01:38:56.784   762 13857 V AudioSink: getPlayedOutDurationUs(1147029823) nowUs(81570485634) frames(50583407) framesAt(81570471842)
+03-30 01:39:01.868   762 13859 V MediaCodec: -- Looking at startdata. presentation 1874441183, start 81575563329245, so  match entry
+03-30 01:39:03.886   762 13859 V MediaCodec: -- Looking at startdata. presentation 1876504857, start 81577563748630, so  match entry
+03-30 01:39:04.455   762 13859 V MediaCodec: -- Looking at startdata. presentation 1877157918, start 81578149025630, so  match entry
+03-30 01:39:04.456   762 13859 V MediaCodec: -- Looking at startdata. presentation 1877184040, start 81578150355630, so  match entry
+03-30 01:39:05.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1878046081, start 81579003697015, so  match entry
+03-30 01:39:06.132   762 13857 V AudioSink: getPlayedOutDurationUs(1156377528) nowUs(81579833328) frames(50995378) framesAt(81579813577)
+03-30 01:39:07.554   762 13859 V MediaCodec: -- Looking at startdata. presentation 1880240367, start 81581247705630, so  match entry
+03-30 01:39:07.830   762 13859 V MediaCodec: -- Looking at startdata. presentation 1880527714, start 81581526563861, so  match entry
+03-30 01:39:10.374   762 13859 V MediaCodec: -- Looking at startdata. presentation 1882878734, start 81583814895631, so  match entry
+03-30 01:39:12.261  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:39:21.114   762 13859 V MediaCodec: -- Looking at startdata. presentation 1893824040, start 81594803356323, so  match entry
+03-30 01:39:21.932   762 13857 V AudioSink: getPlayedOutDurationUs(1172177528) nowUs(81595633354) frames(51692325) framesAt(81595617390)
+03-30 01:39:21.941   762 13859 V MediaCodec: -- Looking at startdata. presentation 1894659959, start 81595633773016, so  match entry
+03-30 01:39:22.201   762 13859 V MediaCodec: -- Looking at startdata. presentation 1894686081, start 81595638004785, so  match entry
+03-30 01:39:22.201   762 13859 V MediaCodec: -- Looking at startdata. presentation 1894712204, start 81595639122016, so  match entry
+03-30 01:39:24.769   762 13859 V MediaCodec: -- Looking at startdata. presentation 1897350571, start 81598456308785, so  match entry
+03-30 01:39:27.861   762 13859 V MediaCodec: -- Looking at startdata. presentation 1900563632, start 81601557118555, so  match entry
+03-30 01:39:28.131   762 13859 V MediaCodec: -- Looking at startdata. presentation 1900642000, start 81601563279862, so  match entry
+03-30 01:39:29.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 1902575061, start 81603563307939, so  match entry
+03-30 01:39:31.284   762 13859 V MediaCodec: -- Looking at startdata. presentation 1903828938, start 81604726325632, so  match entry
+03-30 01:39:31.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1904090163, start 81605002278555, so  match entry
+03-30 01:39:32.678   762 13857 V AudioSink: getPlayedOutDurationUs(1182923520) nowUs(81606379347) frames(52166584) framesAt(81606371563)
+03-30 01:39:32.702   762 13857 V AudioSink: getPlayedOutDurationUs(1182948086) nowUs(81606403913) frames(52166584) framesAt(81606371563)
+03-30 01:39:32.983   762 13859 V MediaCodec: -- Looking at startdata. presentation 1905631387, start 81606677813093, so  match entry
+03-30 01:39:35.231   762 13859 V MediaCodec: -- Looking at startdata. presentation 1907877918, start 81608924715632, so  match entry
+03-30 01:39:37.761   762 13859 V MediaCodec: -- Looking at startdata. presentation 1910333428, start 81611203165632, so  match entry
+03-30 01:39:38.861  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:39:38.883   762 13859 V MediaCodec: -- Looking at startdata. presentation 1911404448, start 81612324805632, so  match entry
+03-30 01:39:42.873   762 13859 V MediaCodec: -- Looking at startdata. presentation 1915557918, start 81616563678632, so  match entry
+03-30 01:39:43.129   762 13859 V MediaCodec: -- Looking at startdata. presentation 1915636285, start 81616571189017, so  match entry
+03-30 01:39:45.079   762 13859 V MediaCodec: -- Looking at startdata. presentation 1917752204, start 81618776905633, so  match entry
+03-30 01:39:49.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1922140775, start 81623261009248, so  match entry
+03-30 01:39:49.872   762 13859 V MediaCodec: -- Looking at startdata. presentation 1922610979, start 81623563103248, so  match entry
+03-30 01:39:51.515   762 13859 V MediaCodec: -- Looking at startdata. presentation 1924073836, start 81624958825633, so  match entry
+03-30 01:39:52.914   762 13857 V AudioSink: getPlayedOutDurationUs(1203159816) nowUs(81626615639) frames(53058411) framesAt(81626594394)
+03-30 01:39:54.046   762 13859 V MediaCodec: -- Looking at startdata. presentation 1926529346, start 81627484915633, so  match entry
+03-30 01:39:56.011   762 13857 V AudioSink: getPlayedOutDurationUs(1206256309) nowUs(81629712125) frames(53195444) framesAt(81629701711)
+03-30 01:39:56.874   762 13859 V MediaCodec: -- Looking at startdata. presentation 1929428938, start 81630560775633, so  match entry
+03-30 01:39:57.158   762 13859 V MediaCodec: -- Looking at startdata. presentation 1929768530, start 81630853815633, so  match entry
+03-30 01:39:57.716   762 13859 V MediaCodec: -- Looking at startdata. presentation 1930264857, start 81631156362941, so  match entry
+03-30 01:39:58.863   762 13859 V MediaCodec: -- Looking at startdata. presentation 1931544857, start 81632557165633, so  match entry
+03-30 01:39:59.138   805   871 E         : akm_log pg_gyr(d/s*1000): 563, 240, 13892, dt: 160
+03-30 01:39:59.701   762 13857 V AudioSink: getPlayedOutDurationUs(1209947046) nowUs(81633402880) frames(53357563) framesAt(81633377897)
+03-30 01:39:59.976   762 13859 V MediaCodec: -- Looking at startdata. presentation 1932563632, start 81633671765941, so  match entry
+03-30 01:40:01.936   762 13857 V AudioSink: getPlayedOutDurationUs(1212181486) nowUs(81635637279) frames(53456508) framesAt(81635621507)
+03-30 01:40:01.955   762 13859 V MediaCodec: -- Looking at startdata. presentation 1934627306, start 81635651456326, so  match entry
+03-30 01:40:04.180   762 13859 V MediaCodec: -- Looking at startdata. presentation 1936690979, start 81637621945634, so  match entry
+03-30 01:40:05.465  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:40:06.165   762 13859 V MediaCodec: -- Looking at startdata. presentation 1938833020, start 81639856309172, so  match entry
+03-30 01:40:06.985   762 13859 V MediaCodec: -- Looking at startdata. presentation 1939486081, start 81640425245634, so  match entry
+03-30 01:40:07.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1940139142, start 81641258730942, so  match entry
+03-30 01:40:16.324   762 13859 V MediaCodec: -- Looking at startdata. presentation 1948864040, start 81649756563327, so  match entry
+03-30 01:40:17.444   762 13859 V MediaCodec: -- Looking at startdata. presentation 1949961183, start 81650883915635, so  match entry
+03-30 01:40:18.042   762 13859 V MediaCodec: -- Looking at startdata. presentation 1950744857, start 81651737563711, so  match entry
+03-30 01:40:18.317   762 13857 V AudioSink: getPlayedOutDurationUs(1228563039) nowUs(81652018842) frames(54178841) framesAt(81652000950)
+03-30 01:40:19.157   762 13857 V AudioSink: getPlayedOutDurationUs(1229402363) nowUs(81652858155) frames(54215630) framesAt(81652835157)
+03-30 01:40:19.977  1520  4604 I ActivityManager:   Force stopping service ServiceRecord{6865563 u0 com.uc.browser.en/com.uc.browser.multiprocess.resident.ResidentIpcService}
+03-30 01:40:20.057  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:40:20.057  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.uc.browser.en flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:40:20.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1953174244, start 81654259413712, so  match entry
+03-30 01:40:21.634   762 13857 V AudioSink: getPlayedOutDurationUs(1231879648) nowUs(81655335436) frames(54325630) framesAt(81655329484)
+03-30 01:40:21.937   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954663224, start 81655632605481, so  match entry
+03-30 01:40:22.193   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954689346, start 81655633585096, so  match entry
+03-30 01:40:22.197   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954715469, start 81655634371866, so  match entry
+03-30 01:40:22.198   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954741591, start 81655638564789, so  match entry
+03-30 01:40:22.207   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954767714, start 81655639647635, so  match entry
+03-30 01:40:22.226   762 13859 V MediaCodec: -- Looking at startdata. presentation 1954924448, start 81655918356327, so  match entry
+03-30 01:40:22.780   762 13859 V MediaCodec: -- Looking at startdata. presentation 1955473020, start 81656470945635, so  match entry
+03-30 01:40:23.320   762 13859 V MediaCodec: -- Looking at startdata. presentation 1955864857, start 81656754055635, so  match entry
+03-30 01:40:23.625   762 13859 V MediaCodec: -- Looking at startdata. presentation 1956308938, start 81657317077173, so  match entry
+03-30 01:40:23.625   762 13859 V MediaCodec: -- Looking at startdata. presentation 1956335061, start 81657319272020, so  match entry
+03-30 01:40:23.625   762 13859 V MediaCodec: -- Looking at startdata. presentation 1956361183, start 81657321364404, so  match entry
+03-30 01:40:23.887   762 13859 V MediaCodec: -- Looking at startdata. presentation 1956387306, start 81657323536481, so  match entry
+03-30 01:40:30.703  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{216537 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:40:31.199  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{216537 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:40:31.882   762 13859 V MediaCodec: -- Looking at startdata. presentation 1964563632, start 81665578175020, so  match entry
+03-30 01:40:32.071  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:40:33.005   762 13859 V MediaCodec: -- Looking at startdata. presentation 1965634653, start 81666700805097, so  match entry
+03-30 01:40:33.883   762 13859 V MediaCodec: -- Looking at startdata. presentation 1966470571, start 81667550145636, so  match entry
+03-30 01:40:35.256   762 13859 V MediaCodec: -- Looking at startdata. presentation 1967750571, start 81668696456328, so  match entry
+03-30 01:40:35.553   762 13859 V MediaCodec: -- Looking at startdata. presentation 1968168530, start 81669247215636, so  match entry
+03-30 01:40:36.392   762 13859 V MediaCodec: -- Looking at startdata. presentation 1969030571, start 81670087385636, so  match entry
+03-30 01:40:39.471   762 13859 V MediaCodec: -- Looking at startdata. presentation 1972034653, start 81672909456328, so  match entry
+03-30 01:40:40.888   762 13859 V MediaCodec: -- Looking at startdata. presentation 1973523632, start 81674582563251, so  match entry
+03-30 01:40:42.016   762 13859 V MediaCodec: -- Looking at startdata. presentation 1974568530, start 81675463665636, so  match entry
+03-30 01:40:43.141   762 13859 V MediaCodec: -- Looking at startdata. presentation 1975639551, start 81676578921867, so  match entry
+03-30 01:40:43.150   762 13859 V MediaCodec: -- Looking at startdata. presentation 1975744040, start 81676844565636, so  match entry
+03-30 01:40:44.305   762 13859 V MediaCodec: -- Looking at startdata. presentation 1976945673, start 81677989125636, so  match entry
+03-30 01:40:46.228   762 13859 V MediaCodec: -- Looking at startdata. presentation 1978852612, start 81679922485636, so  match entry
+03-30 01:40:47.904   762 13859 V MediaCodec: -- Looking at startdata. presentation 1980498326, start 81681598815636, so  match entry
+03-30 01:40:48.563 16972 16972 D _V_BBK_LOG_LocalBroadcastHelper: Reset uploadProgress to 0 
+03-30 01:40:48.671  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:40:48.671  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:40:49.310   762 13859 V MediaCodec: -- Looking at startdata. presentation 1982013428, start 81683005563790, so  match entry
+03-30 01:40:49.563   762 13857 V AudioSink: getPlayedOutDurationUs(1259808712) nowUs(81683264534) frames(55556468) framesAt(81683239676)
+03-30 01:40:50.725   762 13859 V MediaCodec: -- Looking at startdata. presentation 1983397918, start 81684418563637, so  match entry
+03-30 01:40:51.279   762 13857 V AudioSink: getPlayedOutDurationUs(1261524735) nowUs(81684980519) frames(55632396) framesAt(81684961362)
+03-30 01:40:51.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1984103224, start 81685006707790, so  match entry
+03-30 01:40:51.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1984129346, start 81685255136944, so  match entry
+03-30 01:40:54.386   762 13859 V MediaCodec: -- Looking at startdata. presentation 1987002816, start 81688081705637, so  match entry
+03-30 01:40:55.252   762 13859 V MediaCodec: -- Looking at startdata. presentation 1987969346, start 81688949865637, so  match entry
+03-30 01:40:55.523   762 13859 V MediaCodec: -- Looking at startdata. presentation 1988099959, start 81689214605637, so  match entry
+03-30 01:40:56.380   762 13859 V MediaCodec: -- Looking at startdata. presentation 1989092612, start 81690075631637, so  match entry
+03-30 01:40:58.668  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:41:00.635 12519 12623 I nightwatch-target: monitor resources last 15000 iteration: 769563 msec
+03-30 01:41:01.138   762 13857 V AudioSink: getPlayedOutDurationUs(1271383648) nowUs(81694839425) frames(56067143) framesAt(81694819563)
+03-30 01:41:02.272   762 13859 V MediaCodec: -- Looking at startdata. presentation 1994761183, start 81695707675637, so  match entry
+03-30 01:41:03.969   762 13859 V MediaCodec: -- Looking at startdata. presentation 1996485265, start 81697403156330, so  match entry
+03-30 01:41:03.983   762 13859 V MediaCodec: -- Looking at startdata. presentation 1996563632, start 81697667841560, so  match entry
+03-30 01:41:04.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1997086081, start 81697992337791, so  match entry
+03-30 01:41:05.418   762 13857 V AudioSink: getPlayedOutDurationUs(1275663486) nowUs(81699119325) frames(56256309) framesAt(81699109104)
+03-30 01:41:05.438   762 13857 V AudioSink: getPlayedOutDurationUs(1275684039) nowUs(81699139878) frames(56256309) framesAt(81699109104)
+03-30 01:41:05.996   762 13857 V AudioSink: getPlayedOutDurationUs(1276241563) nowUs(81699697364) frames(56281548) framesAt(81699681379)
+03-30 01:41:06.540   762 13857 V AudioSink: getPlayedOutDurationUs(1276785386) nowUs(81700241212) frames(56305742) framesAt(81700230021)
+03-30 01:41:06.560   762 13857 V AudioSink: getPlayedOutDurationUs(1276805661) nowUs(81700261447) frames(56306950) framesAt(81700257373)
+03-30 01:41:06.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 1999123632, start 81699990262484, so  match entry
+03-30 01:41:06.835   762 13857 V AudioSink: getPlayedOutDurationUs(1277080547) nowUs(81700536356) frames(56318239) framesAt(81700513382)
+03-30 01:41:07.109   762 13857 V AudioSink: getPlayedOutDurationUs(1277354827) nowUs(81700810634) frames(56329736) framesAt(81700774083)
+03-30 01:41:07.385   762 13857 V AudioSink: getPlayedOutDurationUs(1277630841) nowUs(81701086659) frames(56340847) framesAt(81701026044)
+03-30 01:41:07.408   762 13857 V AudioSink: getPlayedOutDurationUs(1277653817) nowUs(81701109609) frames(56343641) framesAt(81701089374)
+03-30 01:41:07.674   762 13857 V AudioSink: getPlayedOutDurationUs(1277919931) nowUs(81701375726) frames(56354978) framesAt(81701346452)
+03-30 01:41:07.695   762 13857 V AudioSink: getPlayedOutDurationUs(1277941007) nowUs(81701396813) frames(56356582) framesAt(81701382835)
+03-30 01:41:07.720   762 13857 V AudioSink: getPlayedOutDurationUs(1277965531) nowUs(81701421341) frames(56357914) framesAt(81701413043)
+03-30 01:41:07.978   762 13857 V AudioSink: getPlayedOutDurationUs(1278223641) nowUs(81701679460) frames(56369301) framesAt(81701671261)
+03-30 01:41:07.999   762 13857 V AudioSink: getPlayedOutDurationUs(1278245098) nowUs(81701700917) frames(56369301) framesAt(81701671261)
+03-30 01:41:08.260   762 13857 V AudioSink: getPlayedOutDurationUs(1278505520) nowUs(81701961322) frames(56380324) framesAt(81701921198)
+03-30 01:41:08.535   762 13857 V AudioSink: getPlayedOutDurationUs(1278780584) nowUs(81702236381) frames(56391613) framesAt(81702177180)
+03-30 01:41:08.562   762 13857 V AudioSink: getPlayedOutDurationUs(1278807975) nowUs(81702263771) frames(56394433) framesAt(81702241124)
+03-30 01:41:08.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2001161183, start 81702253264253, so  match entry
+03-30 01:41:11.708   762 13859 V MediaCodec: -- Looking at startdata. presentation 2004348122, start 81705400955638, so  match entry
+03-30 01:41:11.968   762 13857 V AudioSink: getPlayedOutDurationUs(1282213494) nowUs(81705669287) frames(56544272) framesAt(81705638831)
+03-30 01:41:12.563  2697  6568 I _V_RMS-Reclaim: available=842680KB, current watermark=819200KB, last watermark=819200KB, current stopline=800, last stopline=1000 curlevel=4
+03-30 01:41:12.563  2697  6568 I _V_RMS-Reclaim: Reclaiming took : 2ms
+03-30 01:41:13.648   762 13859 V MediaCodec: -- Looking at startdata. presentation 2006281183, start 81707343445638, so  match entry
+03-30 01:41:17.040   762 13857 V AudioSink: getPlayedOutDurationUs(1287285635) nowUs(81710741435) frames(56768598) framesAt(81710725595)
+03-30 01:41:17.344   762 13859 V MediaCodec: -- Looking at startdata. presentation 2009938326, start 81711035625638, so  match entry
+03-30 01:41:21.280   762 13859 V MediaCodec: -- Looking at startdata. presentation 2013778326, start 81714720563100, so  match entry
+03-30 01:41:21.287   762 13859 V MediaCodec: -- Looking at startdata. presentation 2013882816, start 81714984405638, so  match entry
+03-30 01:41:22.146   762 13859 V MediaCodec: -- Looking at startdata. presentation 2014666489, start 81715588825638, so  match entry
+03-30 01:41:22.996   762 13859 V MediaCodec: -- Looking at startdata. presentation 2015633020, start 81716690971792, so  match entry
+03-30 01:41:23.553   762 13857 V AudioSink: getPlayedOutDurationUs(1293799012) nowUs(81717254828) frames(57056386) framesAt(81717251416)
+03-30 01:41:24.132   762 13859 V MediaCodec: -- Looking at startdata. presentation 2016677918, start 81717591695638, so  match entry
+03-30 01:41:25.270   762 13859 V MediaCodec: -- Looking at startdata. presentation 2017801183, start 81718700385639, so  match entry
+03-30 01:41:25.291  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:41:26.410   762 13857 V AudioSink: getPlayedOutDurationUs(1296655631) nowUs(81720111415) frames(57181868) framesAt(81720096781)
+03-30 01:41:28.637   762 13857 V AudioSink: getPlayedOutDurationUs(1298882758) nowUs(81722338572) frames(57277954) framesAt(81722275632)
+03-30 01:41:29.486   762 13857 V AudioSink: getPlayedOutDurationUs(1299731768) nowUs(81723187563) frames(57317466) framesAt(81723171577)
+03-30 01:41:32.320   762 13859 V MediaCodec: -- Looking at startdata. presentation 2024932612, start 81726015638177, so  match entry
+03-30 01:41:32.584   762 13857 V AudioSink: getPlayedOutDurationUs(1302829854) nowUs(81726285630) frames(57452936) framesAt(81726243440)
+03-30 01:41:32.909   762 13859 V MediaCodec: -- Looking at startdata. presentation 2025637918, start 81726606312408, so  match entry
+03-30 01:41:34.596   762 13859 V MediaCodec: -- Looking at startdata. presentation 2027283632, start 81728289325639, so  match entry
+03-30 01:41:35.984   762 13859 V MediaCodec: -- Looking at startdata. presentation 2028563632, start 81729675946716, so  match entry
+03-30 01:41:37.114   762 13859 V MediaCodec: -- Looking at startdata. presentation 2029765265, start 81730805638409, so  match entry
+03-30 01:41:39.628   762 13857 V AudioSink: getPlayedOutDurationUs(1309873330) nowUs(81733329134) frames(57763563) framesAt(81733287164)
+03-30 01:41:39.642   762 13859 V MediaCodec: -- Looking at startdata. presentation 2032246897, start 81733338105639, so  match entry
+03-30 01:41:39.655   762 13859 V MediaCodec: -- Looking at startdata. presentation 2032377510, start 81733349344563, so  match entry
+03-30 01:41:40.232   762 13859 V MediaCodec: -- Looking at startdata. presentation 2032769346, start 81733668563409, so  match entry
+03-30 01:41:40.525   762 13859 V MediaCodec: -- Looking at startdata. presentation 2033213428, start 81734222295563, so  match entry
+03-30 01:41:40.827   762 13859 V MediaCodec: -- Looking at startdata. presentation 2033553020, start 81734520285639, so  match entry
+03-30 01:41:41.093   762 13859 V MediaCodec: -- Looking at startdata. presentation 2033631387, start 81734530122563, so  match entry
+03-30 01:41:41.100   762 13859 V MediaCodec: -- Looking at startdata. presentation 2033683632, start 81734792252563, so  match entry
+03-30 01:41:41.383   762 13859 V MediaCodec: -- Looking at startdata. presentation 2033997102, start 81735078184563, so  match entry
+03-30 01:41:41.938   762 13859 V MediaCodec: -- Looking at startdata. presentation 2034519551, start 81735634053486, so  match entry
+03-30 01:41:41.941   762 13859 V MediaCodec: -- Looking at startdata. presentation 2034545673, start 81735637215409, so  match entry
+03-30 01:41:41.944   762 13859 V MediaCodec: -- Looking at startdata. presentation 2034571795, start 81735639827947, so  match entry
+03-30 01:41:42.215   762 13859 V MediaCodec: -- Looking at startdata. presentation 2034728530, start 81735652209563, so  match entry
+03-30 01:41:42.501   762 13859 V MediaCodec: -- Looking at startdata. presentation 2035042000, start 81735941348563, so  match entry
+03-30 01:41:42.509   762 13859 V MediaCodec: -- Looking at startdata. presentation 2035146489, start 81736204183563, so  match entry
+03-30 01:41:43.077   762 13859 V MediaCodec: -- Looking at startdata. presentation 2035721183, start 81736773405563, so  match entry
+03-30 01:41:43.359   762 13859 V MediaCodec: -- Looking at startdata. presentation 2036008530, start 81737050692563, so  match entry
+03-30 01:41:43.912   762 13857 V AudioSink: getPlayedOutDurationUs(1314157750) nowUs(81737613563) frames(57952387) framesAt(81737568896)
+03-30 01:41:44.478   762 13859 V MediaCodec: -- Looking at startdata. presentation 2037157918, start 81738174378563, so  match entry
+03-30 01:41:44.746   762 13859 V MediaCodec: -- Looking at startdata. presentation 2037366897, start 81738441539563, so  match entry
+03-30 01:41:44.753   762 13859 V MediaCodec: -- Looking at startdata. presentation 2037471387, start 81738450205563, so  match entry
+03-30 01:41:45.035   762 13859 V MediaCodec: -- Looking at startdata. presentation 2037654244, start 81738723985563, so  match entry
+03-30 01:41:45.308   762 13859 V MediaCodec: -- Looking at startdata. presentation 2037863224, start 81738743452563, so  match entry
+03-30 01:41:45.328   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038046081, start 81739022808563, so  match entry
+03-30 01:41:45.590   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038150571, start 81739030630563, so  match entry
+03-30 01:41:45.862   762 13857 V AudioSink: getPlayedOutDurationUs(1316107583) nowUs(81739563367) frames(58040039) framesAt(81739556441)
+03-30 01:41:45.866   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038385673, start 81739307486563, so  match entry
+03-30 01:41:45.877   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038490163, start 81739569235563, so  match entry
+03-30 01:41:46.158   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038855877, start 81739856364794, so  match entry
+03-30 01:41:46.421   762 13859 V MediaCodec: -- Looking at startdata. presentation 2038908122, start 81739859955563, so  match entry
+03-30 01:41:46.702   762 13859 V MediaCodec: -- Looking at startdata. presentation 2039247714, start 81740145421563, so  match entry
+03-30 01:41:46.703   762 13859 V MediaCodec: -- Looking at startdata. presentation 2039299959, start 81740399727563, so  match entry
+03-30 01:41:47.283   762 13859 V MediaCodec: -- Looking at startdata. presentation 2039953020, start 81740975979563, so  match entry
+03-30 01:41:47.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2040292612, start 81741259029178, so  match entry
+03-30 01:41:47.822   762 13859 V MediaCodec: -- Looking at startdata. presentation 2040318734, start 81741261913563, so  match entry
+03-30 01:41:48.105   762 13859 V MediaCodec: -- Looking at startdata. presentation 2040606081, start 81741545636563, so  match entry
+03-30 01:41:48.134   762 13859 V MediaCodec: -- Looking at startdata. presentation 2040736693, start 81741821478563, so  match entry
+03-30 01:41:48.421   762 13859 V MediaCodec: -- Looking at startdata. presentation 2041050163, start 81742110435563, so  match entry
+03-30 01:41:48.685   762 13859 V MediaCodec: -- Looking at startdata. presentation 2041206897, start 81742125397563, so  match entry
+03-30 01:41:48.964   762 13859 V MediaCodec: -- Looking at startdata. presentation 2041494244, start 81742404563025, so  match entry
+03-30 01:41:48.980   762 13859 V MediaCodec: -- Looking at startdata. presentation 2041677102, start 81742674726563, so  match entry
+03-30 01:41:49.270   762 13859 V MediaCodec: -- Looking at startdata. presentation 2041990571, start 81742963156563, so  match entry
+03-30 01:41:49.818   762 13859 V MediaCodec: -- Looking at startdata. presentation 2042408530, start 81743511627563, so  match entry
+03-30 01:41:49.828   762 13859 V MediaCodec: -- Looking at startdata. presentation 2042486897, start 81743519979563, so  match entry
+03-30 01:41:50.094   762 13859 V MediaCodec: -- Looking at startdata. presentation 2042669755, start 81743537356332, so  match entry
+03-30 01:41:50.368   762 13859 V MediaCodec: -- Looking at startdata. presentation 2042878734, start 81743809637563, so  match entry
+03-30 01:41:50.642   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043113836, start 81744083227563, so  match entry
+03-30 01:41:50.658   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043270571, start 81744349606563, so  match entry
+03-30 01:41:50.668   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043348938, start 81744361178563, so  match entry
+03-30 01:41:50.948   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043531795, start 81744634336563, so  match entry
+03-30 01:41:50.959   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043662408, start 81744651624563, so  match entry
+03-30 01:41:51.222   762 13859 V MediaCodec: -- Looking at startdata. presentation 2043793020, start 81744662469563, so  match entry
+03-30 01:41:51.799   762 13859 V MediaCodec: -- Looking at startdata. presentation 2044419959, start 81745492666563, so  match entry
+03-30 01:41:51.879  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:41:52.383   762 13859 V MediaCodec: -- Looking at startdata. presentation 2045046897, start 81746077216563, so  match entry
+03-30 01:41:52.643   762 13859 V MediaCodec: -- Looking at startdata. presentation 2045125265, start 81746080719563, so  match entry
+03-30 01:41:52.665   762 13859 V MediaCodec: -- Looking at startdata. presentation 2045334244, start 81746357277563, so  match entry
+03-30 01:41:52.927   762 13859 V MediaCodec: -- Looking at startdata. presentation 2045438734, start 81746368576563, so  match entry
+03-30 01:41:53.776   762 13857 V AudioSink: getPlayedOutDurationUs(1324021831) nowUs(81747477635) frames(58388563) framesAt(81747459500)
+03-30 01:41:53.786   762 13859 V MediaCodec: -- Looking at startdata. presentation 2046457510, start 81747477601563, so  match entry
+03-30 01:41:54.048   762 13859 V MediaCodec: -- Looking at startdata. presentation 2046535877, start 81747487700563, so  match entry
+03-30 01:41:54.337   762 13859 V MediaCodec: -- Looking at startdata. presentation 2046875469, start 81747778178563, so  match entry
+03-30 01:41:54.914   762 13859 V MediaCodec: -- Looking at startdata. presentation 2047502408, start 81748607139563, so  match entry
+03-30 01:41:55.198   762 13859 V MediaCodec: -- Looking at startdata. presentation 2047789755, start 81748892476563, so  match entry
+03-30 01:41:55.476   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048050979, start 81748916607563, so  match entry
+03-30 01:41:55.484   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048155469, start 81749179301563, so  match entry
+03-30 01:41:55.754   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048364448, start 81749450470563, so  match entry
+03-30 01:41:56.046   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048677918, start 81749735219563, so  match entry
+03-30 01:41:56.047   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048704040, start 81749737935563, so  match entry
+03-30 01:41:56.328   762 13859 V MediaCodec: -- Looking at startdata. presentation 2048965265, start 81750021182563, so  match entry
+03-30 01:41:56.341   762 13859 V MediaCodec: -- Looking at startdata. presentation 2049069755, start 81750032180563, so  match entry
+03-30 01:41:56.604   762 13859 V MediaCodec: -- Looking at startdata. presentation 2049174244, start 81750043563948, so  match entry
+03-30 01:41:57.734   762 13857 V AudioSink: getPlayedOutDurationUs(1327979728) nowUs(81751435549) frames(58563572) framesAt(81751427975)
+03-30 01:41:58.867   762 13859 V MediaCodec: -- Looking at startdata. presentation 2051525265, start 81752563376948, so  match entry
+03-30 01:41:59.147   762 13857 V AudioSink: getPlayedOutDurationUs(1329393161) nowUs(81752848941) frames(58625636) framesAt(81752835281)
+03-30 01:42:03.674   762 13859 V MediaCodec: -- Looking at startdata. presentation 2056305673, start 81757364313872, so  match entry
+03-30 01:42:03.674   762 13859 V MediaCodec: -- Looking at startdata. presentation 2056331795, start 81757366785872, so  match entry
+03-30 01:42:03.674   762 13859 V MediaCodec: -- Looking at startdata. presentation 2056357918, start 81757367254256, so  match entry
+03-30 01:42:03.681   762 13859 V MediaCodec: -- Looking at startdata. presentation 2056384040, start 81757375690179, so  match entry
+03-30 01:42:07.906   762 13859 V MediaCodec: -- Looking at startdata. presentation 2060563632, start 81761599869564, so  match entry
+03-30 01:42:11.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2064064040, start 81765001876180, so  match entry
+03-30 01:42:11.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2064534244, start 81765563655718, so  match entry
+03-30 01:42:12.146   762 13859 V MediaCodec: -- Looking at startdata. presentation 2064847714, start 81765838756334, so  match entry
+03-30 01:42:12.994   762 13859 V MediaCodec: -- Looking at startdata. presentation 2065631387, start 81766685729488, so  match entry
+03-30 01:42:13.811   762 13857 V AudioSink: getPlayedOutDurationUs(1344056323) nowUs(81767512138) frames(59270556) framesAt(81767459352)
+03-30 01:42:16.128   762 13859 V MediaCodec: -- Looking at startdata. presentation 2068661591, start 81769563601565, so  match entry
+03-30 01:42:17.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2070202816, start 81771245912642, so  match entry
+03-30 01:42:17.563   762 13857 V AudioSink: getPlayedOutDurationUs(1347809252) nowUs(81771265053) frames(59437147) framesAt(81771236912)
+03-30 01:42:18.475  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:42:18.670   762 13859 V MediaCodec: -- Looking at startdata. presentation 2071352204, start 81772366563719, so  match entry
+03-30 01:42:22.945   762 13859 V MediaCodec: -- Looking at startdata. presentation 2075636285, start 81776638577565, so  match entry
+03-30 01:42:26.063   762 13857 V AudioSink: getPlayedOutDurationUs(1356308594) nowUs(81779764394) frames(59812418) framesAt(81779746457)
+03-30 01:42:28.864   762 13857 V AudioSink: getPlayedOutDurationUs(1359109790) nowUs(81782565619) frames(59936607) framesAt(81782562563)
+03-30 01:42:30.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2083290163, start 81784258663258, so  match entry
+03-30 01:42:31.945   762 13857 V AudioSink: getPlayedOutDurationUs(1362191180) nowUs(81785646984) frames(60072110) framesAt(81785635169)
+03-30 01:42:35.066   762 13859 V MediaCodec: -- Looking at startdata. presentation 2087678734, start 81788755634181, so  match entry
+03-30 01:42:35.359   762 13859 V MediaCodec: -- Looking at startdata. presentation 2088044448, start 81789050156335, so  match entry
+03-30 01:42:39.875   762 13859 V MediaCodec: -- Looking at startdata. presentation 2092380775, start 81793315635720, so  match entry
+03-30 01:42:39.888   762 13859 V MediaCodec: -- Looking at startdata. presentation 2092563632, start 81793579973874, so  match entry
+03-30 01:42:41.867   762 13859 V MediaCodec: -- Looking at startdata. presentation 2094601183, start 81795563005797, so  match entry
+03-30 01:42:45.088  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:42:47.476   762 13857 V AudioSink: getPlayedOutDurationUs(1377721830) nowUs(81801177620) frames(60756596) framesAt(81801156379)
+03-30 01:42:48.618   762 13859 V MediaCodec: -- Looking at startdata. presentation 2101157918, start 81802056383644, so  match entry
+03-30 01:42:52.025   762 13859 V MediaCodec: -- Looking at startdata. presentation 2104658326, start 81805713563413, so  match entry
+03-30 01:42:52.283   762 13857 V AudioSink: getPlayedOutDurationUs(1382529105) nowUs(81805984922) frames(60968327) framesAt(81805957563)
+03-30 01:42:55.386   762 13857 V AudioSink: getPlayedOutDurationUs(1385631349) nowUs(81809087118) frames(61105056) framesAt(81809057945)
+03-30 01:42:56.799   762 13857 V AudioSink: getPlayedOutDurationUs(1387044563) nowUs(81810500370) frames(61167122) framesAt(81810465376)
+03-30 01:42:57.952   762 13859 V MediaCodec: -- Looking at startdata. presentation 2110588122, start 81811643356336, so  match entry
+03-30 01:42:58.498   762 13859 V MediaCodec: -- Looking at startdata. presentation 2110979959, start 81811935635490, so  match entry
+03-30 01:42:59.067   762 13859 V MediaCodec: -- Looking at startdata. presentation 2111580775, start 81812505635952, so  match entry
+03-30 01:43:00.211   762 13859 V MediaCodec: -- Looking at startdata. presentation 2112860775, start 81813904563952, so  match entry
+03-30 01:43:01.616   762 13859 V MediaCodec: -- Looking at startdata. presentation 2114114653, start 81815056390414, so  match entry
+03-30 01:43:04.165   762 13859 V MediaCodec: -- Looking at startdata. presentation 2116726897, start 81817605563644, so  match entry
+03-30 01:43:05.304   762 13859 V MediaCodec: -- Looking at startdata. presentation 2117824040, start 81818756301875, so  match entry
+03-30 01:43:06.415   762 13857 V AudioSink: getPlayedOutDurationUs(1396660453) nowUs(81820116275) frames(61590563) framesAt(81820067227)
+03-30 01:43:11.692  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:43:11.860   762 13859 V MediaCodec: -- Looking at startdata. presentation 2124563632, start 81825552895106, so  match entry
+03-30 01:43:12.125   762 13859 V MediaCodec: -- Looking at startdata. presentation 2124694244, start 81825563511414, so  match entry
+03-30 01:43:12.983   762 13859 V MediaCodec: -- Looking at startdata. presentation 2125634653, start 81826675423568, so  match entry
+03-30 01:43:22.970   762 13859 V MediaCodec: -- Looking at startdata. presentation 2135639551, start 81836667416492, so  match entry
+03-30 01:43:24.044   762 13859 V MediaCodec: -- Looking at startdata. presentation 2136527714, start 81837485631261, so  match entry
+03-30 01:43:24.311   762 13857 V AudioSink: getPlayedOutDurationUs(1414556370) nowUs(81838012161) frames(62381471) framesAt(81838001618)
+03-30 01:43:25.389   762 13857 V AudioSink: getPlayedOutDurationUs(1415634281) nowUs(81839090075) frames(62428740) framesAt(81839073481)
+03-30 01:43:26.479   762 13859 V MediaCodec: -- Looking at startdata. presentation 2139087714, start 81840175637723, so  match entry
+03-30 01:43:27.558   762 13859 V MediaCodec: -- Looking at startdata. presentation 2140237102, start 81841256310184, so  match entry
+03-30 01:43:28.354   762 13857 V AudioSink: getPlayedOutDurationUs(1418600249) nowUs(81842056064) frames(62558563) framesAt(81842017334)
+03-30 01:43:30.563   805   871 E         : akm_log setv_mag-hdt_ag(msQ4) = 160
+03-30 01:43:30.563   805   871 E         : akm_log pg_gyr(d/s*1000): -37, -18, -930, dt: 160
+03-30 01:43:32.411   762 13859 V MediaCodec: -- Looking at startdata. presentation 2144886897, start 81845852563185, so  match entry
+03-30 01:43:34.873   762 13859 V MediaCodec: -- Looking at startdata. presentation 2147525265, start 81848563196646, so  match entry
+03-30 01:43:35.425   762 13859 V MediaCodec: -- Looking at startdata. presentation 2148047714, start 81849116563185, so  match entry
+03-30 01:43:36.241   762 13857 V AudioSink: getPlayedOutDurationUs(1426486563) nowUs(81849942367) frames(62905747) framesAt(81849889976)
+03-30 01:43:36.265   762 13859 V MediaCodec: -- Looking at startdata. presentation 2148883632, start 81849955639108, so  match entry
+03-30 01:43:38.284  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:43:41.936   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154656693, start 81855630221108, so  match entry
+03-30 01:43:41.937   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154682816, start 81855631785647, so  match entry
+03-30 01:43:42.193   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154708938, start 81855634155877, so  match entry
+03-30 01:43:42.199   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154735061, start 81855636339185, so  match entry
+03-30 01:43:42.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154761183, start 81855638764724, so  match entry
+03-30 01:43:42.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 2154787306, start 81855639588801, so  match entry
+03-30 01:43:43.617   762 13859 V MediaCodec: -- Looking at startdata. presentation 2156302408, start 81857310309416, so  match entry
+03-30 01:43:43.619   762 13859 V MediaCodec: -- Looking at startdata. presentation 2156328530, start 81857310946339, so  match entry
+03-30 01:43:43.871   762 13859 V MediaCodec: -- Looking at startdata. presentation 2156354653, start 81857312554185, so  match entry
+03-30 01:43:43.875   762 13859 V MediaCodec: -- Looking at startdata. presentation 2156380775, start 81857318460647, so  match entry
+03-30 01:43:43.888   762 13859 V MediaCodec: -- Looking at startdata. presentation 2156563632, start 81857583745724, so  match entry
+03-30 01:43:47.862   762 13857 V AudioSink: getPlayedOutDurationUs(1438107451) nowUs(81861563224) frames(63419604) framesAt(81861542031)
+03-30 01:43:47.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2160560367, start 81861563568416, so  match entry
+03-30 01:43:49.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2162597918, start 81863563643032, so  match entry
+03-30 01:43:51.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2164295877, start 81865258892878, so  match entry
+03-30 01:43:54.563  1520  1945 V _V_VivoStats: noteWhich 44, arg1 = 1001, arg2 = 2493, name = *telephony-radio*
+03-30 01:43:56.589   762 13859 V MediaCodec: -- Looking at startdata. presentation 2169206897, start 81870283563109, so  match entry
+03-30 01:43:56.880   762 13859 V MediaCodec: -- Looking at startdata. presentation 2169468122, start 81870563748494, so  match entry
+03-30 01:44:00.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2173255877, start 81874257248186, so  match entry
+03-30 01:44:02.264   762 13859 V MediaCodec: -- Looking at startdata. presentation 2174953836, start 81875956366340, so  match entry
+03-30 01:44:03.094   762 13859 V MediaCodec: -- Looking at startdata. presentation 2175633020, start 81876535504033, so  match entry
+03-30 01:44:04.220   762 13859 V MediaCodec: -- Looking at startdata. presentation 2176782408, start 81877656395648, so  match entry
+03-30 01:44:04.888  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:44:07.051   762 13859 V MediaCodec: -- Looking at startdata. presentation 2179682000, start 81880745638187, so  match entry
+03-30 01:44:07.311   762 13857 V AudioSink: getPlayedOutDurationUs(1457556392) nowUs(81881012221) frames(64277607) framesAt(81880997937)
+03-30 01:44:07.315   762 13859 V MediaCodec: -- Looking at startdata. presentation 2179838734, start 81880756374187, so  match entry
+03-30 01:44:08.455   762 13857 V AudioSink: getPlayedOutDurationUs(1458700548) nowUs(81882156375) frames(64328217) framesAt(81882145554)
+03-30 01:44:08.461   762 13859 V MediaCodec: -- Looking at startdata. presentation 2181144857, start 81882156343187, so  match entry
+03-30 01:44:12.947   762 13859 V MediaCodec: -- Looking at startdata. presentation 2185637918, start 81886641613187, so  match entry
+03-30 01:44:14.346   762 13857 V AudioSink: getPlayedOutDurationUs(1464591747) nowUs(81888047563) frames(64588053) framesAt(81888037516)
+03-30 01:44:16.024   762 13859 V MediaCodec: -- Looking at startdata. presentation 2188563632, start 81889462448572, so  match entry
+03-30 01:44:21.942   762 13859 V MediaCodec: -- Looking at startdata. presentation 2194519551, start 81895635708572, so  match entry
+03-30 01:44:21.947   762 13859 V MediaCodec: -- Looking at startdata. presentation 2194545673, start 81895637170418, so  match entry
+03-30 01:44:21.949   762 13859 V MediaCodec: -- Looking at startdata. presentation 2194571795, start 81895637988957, so  match entry
+03-30 01:44:25.060   762 13859 V MediaCodec: -- Looking at startdata. presentation 2197706489, start 81898756324957, so  match entry
+03-30 01:44:30.123   762 13859 V MediaCodec: -- Looking at startdata. presentation 2202669755, start 81903563210803, so  match entry
+03-30 01:44:31.494  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:44:33.256   762 13859 V MediaCodec: -- Looking at startdata. presentation 2205961183, start 81906952256342, so  match entry
+03-30 01:44:37.737   762 13859 V MediaCodec: -- Looking at startdata. presentation 2210245265, start 81911175637958, so  match entry
+03-30 01:44:38.012   762 13857 V AudioSink: getPlayedOutDurationUs(1488258058) nowUs(81911713841) frames(65630939) framesAt(81911685692)
+03-30 01:44:38.035   762 13857 V AudioSink: getPlayedOutDurationUs(1488280868) nowUs(81911736667) frames(65632425) framesAt(81911719404)
+03-30 01:44:38.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2211499142, start 81912563004112, so  match entry
+03-30 01:44:39.155   762 13857 V AudioSink: getPlayedOutDurationUs(1489400583) nowUs(81912856383) frames(65681790) framesAt(81912838793)
+03-30 01:44:40.829   762 13857 V AudioSink: getPlayedOutDurationUs(1491074323) nowUs(81914530126) frames(65756323) framesAt(81914528886)
+03-30 01:44:40.849   762 13857 V AudioSink: getPlayedOutDurationUs(1491094414) nowUs(81914550217) frames(65756323) framesAt(81914528886)
+03-30 01:44:44.235   762 13859 V MediaCodec: -- Looking at startdata. presentation 2216906489, start 81917931656343, so  match entry
+03-30 01:44:44.632  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.bbklog ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:44:47.851   762 13859 V MediaCodec: -- Looking at startdata. presentation 2220563632, start 81921543729497, so  match entry
+03-30 01:44:48.454  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:44:48.454  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:44:49.563   556  1417 I         : printUidInfo uid(10201), UidInfo is 0@0
+03-30 01:44:49.563   556  1417 I         : queryResolvNetidForUid the app(10201)'s resolve netid is 0
+03-30 01:44:49.563   556  1417 E         : QUERY_RESOLV_NETID command.uid:10201, nid:0
+03-30 01:44:52.945   762 13859 V MediaCodec: -- Looking at startdata. presentation 2225631387, start 81926632614574, so  match entry
+03-30 01:44:54.067   762 13859 V MediaCodec: -- Looking at startdata. presentation 2226780775, start 81927763563651, so  match entry
+03-30 01:44:58.090  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:44:59.151   762 13857 V AudioSink: getPlayedOutDurationUs(1509396985) nowUs(81932852775) frames(66563735) framesAt(81932837536)
+03-30 01:44:59.172   762 13857 V AudioSink: getPlayedOutDurationUs(1509418024) nowUs(81932873814) frames(66563735) framesAt(81932837536)
+03-30 01:45:03.088   762 13859 V MediaCodec: -- Looking at startdata. presentation 2235636285, start 81936525152498, so  match entry
+03-30 01:45:20.040   762 13859 V MediaCodec: -- Looking at startdata. presentation 2252563632, start 81953481961729, so  match entry
+03-30 01:45:22.609   762 13857 V AudioSink: getPlayedOutDurationUs(1532854941) nowUs(81956310746) frames(67596553) framesAt(81956257460)
+03-30 01:45:22.624   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255202000, start 81956316688730, so  match entry
+03-30 01:45:22.629   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255228122, start 81956317699960, so  match entry
+03-30 01:45:22.630   762 13857 V AudioSink: getPlayedOutDurationUs(1532875705) nowUs(81956331493) frames(67599363) framesAt(81956321162)
+03-30 01:45:22.637   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255254244, start 81956326209422, so  match entry
+03-30 01:45:22.637   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255280367, start 81956327218191, so  match entry
+03-30 01:45:22.637   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255306489, start 81956328816268, so  match entry
+03-30 01:45:22.638   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255332612, start 81956331828114, so  match entry
+03-30 01:45:22.645   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255358734, start 81956339443883, so  match entry
+03-30 01:45:22.903   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255384857, start 81956340768807, so  match entry
+03-30 01:45:22.907   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255410979, start 81956341733883, so  match entry
+03-30 01:45:22.914   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255437102, start 81956342472883, so  match entry
+03-30 01:45:22.914   762 13859 V MediaCodec: -- Looking at startdata. presentation 2255463224, start 81956347691499, so  match entry
+03-30 01:45:23.211   762 13857 V AudioSink: getPlayedOutDurationUs(1533456384) nowUs(81956912185) frames(67624895) framesAt(81956900132)
+03-30 01:45:23.757   762 13859 V MediaCodec: -- Looking at startdata. presentation 2256325265, start 81957198760730, so  match entry
+03-30 01:45:23.764   762 13859 V MediaCodec: -- Looking at startdata. presentation 2256351387, start 81957458701268, so  match entry
+03-30 01:45:23.767   762 13859 V MediaCodec: -- Looking at startdata. presentation 2256377510, start 81957459855960, so  match entry
+03-30 01:45:24.695  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:45:26.061   762 13859 V MediaCodec: -- Looking at startdata. presentation 2258728530, start 81959755563807, so  match entry
+03-30 01:45:34.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2267270571, start 81968261341038, so  match entry
+03-30 01:45:37.355   762 13857 V AudioSink: getPlayedOutDurationUs(1547600536) nowUs(81971056351) frames(68248511) framesAt(81971041098)
+03-30 01:45:46.086   762 13857 V AudioSink: getPlayedOutDurationUs(1556331533) nowUs(81979787349) frames(68633910) framesAt(81979780305)
+03-30 01:45:46.108   762 13857 V AudioSink: getPlayedOutDurationUs(1556353773) nowUs(81979809589) frames(68633910) framesAt(81979780305)
+03-30 01:45:46.372   762 13859 V MediaCodec: -- Looking at startdata. presentation 2278868938, start 81979815631039, so  match entry
+03-30 01:45:46.394   762 13857 V AudioSink: getPlayedOutDurationUs(1556639836) nowUs(81980095638) frames(68646489) framesAt(81980065529)
+03-30 01:45:47.515   762 13857 V AudioSink: getPlayedOutDurationUs(1557761009) nowUs(81981216803) frames(68695634) framesAt(81981179920)
+03-30 01:45:48.361   762 13859 V MediaCodec: -- Looking at startdata. presentation 2280906489, start 81981793556347, so  match entry
+03-30 01:45:48.373   762 13859 V MediaCodec: -- Looking at startdata. presentation 2281010979, start 81982064856347, so  match entry
+03-30 01:45:51.306  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:45:51.766   762 13859 V MediaCodec: -- Looking at startdata. presentation 2284406897, start 81985455563270, so  match entry
+03-30 01:45:52.029   762 13859 V MediaCodec: -- Looking at startdata. presentation 2284563632, start 81985474549885, so  match entry
+03-30 01:45:52.880   762 13857 V AudioSink: getPlayedOutDurationUs(1563125839) nowUs(81986581660) frames(68933086) framesAt(81986564347)
+03-30 01:45:52.904   762 13857 V AudioSink: getPlayedOutDurationUs(1563149343) nowUs(81986605177) frames(68934495) framesAt(81986596310)
+03-30 01:45:52.912   762 13859 V MediaCodec: -- Looking at startdata. presentation 2285634653, start 81986605157501, so  match entry
+03-30 01:45:53.164   762 13857 V AudioSink: getPlayedOutDurationUs(1563410057) nowUs(81986865841) frames(68945903) framesAt(81986854944)
+03-30 01:45:53.187   762 13857 V AudioSink: getPlayedOutDurationUs(1563432710) nowUs(81986888494) frames(68945903) framesAt(81986854944)
+03-30 01:45:53.444   762 13857 V AudioSink: getPlayedOutDurationUs(1563689289) nowUs(81987145084) frames(68957209) framesAt(81987111327)
+03-30 01:45:53.716   762 13857 V AudioSink: getPlayedOutDurationUs(1563961914) nowUs(81987417701) frames(68969719) framesAt(81987394993)
+03-30 01:45:53.739   762 13857 V AudioSink: getPlayedOutDurationUs(1563984366) nowUs(81987440147) frames(68971224) framesAt(81987429114)
+03-30 01:45:54.868   762 13859 V MediaCodec: -- Looking at startdata. presentation 2287515469, start 81988563909039, so  match entry
+03-30 01:46:00.210   762 13857 V AudioSink: getPlayedOutDurationUs(1570456078) nowUs(81993911857) frames(69256356) framesAt(81993894690)
+03-30 01:46:00.230   762 13857 V AudioSink: getPlayedOutDurationUs(1570476144) nowUs(81993931923) frames(69256356) framesAt(81993894690)
+03-30 01:46:01.934   762 13859 V MediaCodec: -- Looking at startdata. presentation 2294673020, start 81995631101655, so  match entry
+03-30 01:46:02.191   762 13859 V MediaCodec: -- Looking at startdata. presentation 2294699142, start 81995631715732, so  match entry
+03-30 01:46:02.192   762 13859 V MediaCodec: -- Looking at startdata. presentation 2294725265, start 81995633778886, so  match entry
+03-30 01:46:02.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 2294751387, start 81995634438886, so  match entry
+03-30 01:46:02.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 2294777510, start 81995636122040, so  match entry
+03-30 01:46:03.049   762 13859 V MediaCodec: -- Looking at startdata. presentation 2295639551, start 81996744718117, so  match entry
+03-30 01:46:03.335   762 13857 V AudioSink: getPlayedOutDurationUs(1573580769) nowUs(81997036563) frames(69394426) framesAt(81997025544)
+03-30 01:46:04.448   762 13859 V MediaCodec: -- Looking at startdata. presentation 2297076285, start 81998145632886, so  match entry
+03-30 01:46:07.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2300184857, start 82001261377502, so  match entry
+03-30 01:46:13.804   762 13857 V AudioSink: getPlayedOutDurationUs(1584047465) nowUs(82007505581) frames(69856336) framesAt(82007502016)
+03-30 01:46:17.904  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:46:20.563   762 13857 V AudioSink: getPlayedOutDurationUs(1590806166) nowUs(82014264264) frames(70154225) framesAt(82014256850)
+03-30 01:46:23.975   762 13859 V MediaCodec: -- Looking at startdata. presentation 2316563632, start 82017672355041, so  match entry
+03-30 01:46:24.274   762 13859 V MediaCodec: -- Looking at startdata. presentation 2316981591, start 82017968563503, so  match entry
+03-30 01:46:25.655   762 13859 V MediaCodec: -- Looking at startdata. presentation 2318209346, start 82019349563580, so  match entry
+03-30 01:46:30.453   762 13859 V MediaCodec: -- Looking at startdata. presentation 2322989755, start 82023891563349, so  match entry
+03-30 01:46:33.870   762 13859 V MediaCodec: -- Looking at startdata. presentation 2326437918, start 82027563404657, so  match entry
+03-30 01:46:36.986   762 13859 V MediaCodec: -- Looking at startdata. presentation 2329494244, start 82030425637119, so  match entry
+03-30 01:46:42.932   762 13859 V MediaCodec: -- Looking at startdata. presentation 2335633020, start 82036620618658, so  match entry
+03-30 01:46:44.507  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:46:44.622   762 13859 V MediaCodec: -- Looking at startdata. presentation 2337304857, start 82038315632273, so  match entry
+03-30 01:46:46.592   762 13857 V AudioSink: getPlayedOutDurationUs(1616835658) nowUs(82040293739) frames(71301563) framesAt(82040273568)
+03-30 01:46:46.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2339577510, start 82040565637119, so  match entry
+03-30 01:46:47.714   762 13857 V AudioSink: getPlayedOutDurationUs(1617957546) nowUs(82041415639) frames(71350917) framesAt(82041392718)
+03-30 01:46:51.929   762 13857 V AudioSink: getPlayedOutDurationUs(1622172342) nowUs(82045630420) frames(71537197) framesAt(82045616740)
+03-30 01:46:51.941   762 13859 V MediaCodec: -- Looking at startdata. presentation 2344540775, start 82045637492735, so  match entry
+03-30 01:46:53.076   762 13859 V MediaCodec: -- Looking at startdata. presentation 2345637918, start 82046765686120, so  match entry
+03-30 01:46:55.613   762 13859 V MediaCodec: -- Looking at startdata. presentation 2348119551, start 82049050456351, so  match entry
+03-30 01:46:55.916   762 13859 V MediaCodec: -- Looking at startdata. presentation 2348563632, start 82049611143812, so  match entry
+03-30 01:46:56.189   762 13859 V MediaCodec: -- Looking at startdata. presentation 2348772612, start 82049630156351, so  match entry
+03-30 01:46:59.850   762 13857 V AudioSink: getPlayedOutDurationUs(1630093088) nowUs(82053551184) frames(71885638) framesAt(82053517914)
+03-30 01:47:02.653   762 13857 V AudioSink: getPlayedOutDurationUs(1632896625) nowUs(82056354717) frames(72009940) framesAt(82056336550)
+03-30 01:47:02.676   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355250979, start 82056365453428, so  match entry
+03-30 01:47:02.677   762 13857 V AudioSink: getPlayedOutDurationUs(1632920171) nowUs(82056378298) frames(72011444) framesAt(82056370689)
+03-30 01:47:02.677   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355277102, start 82056366874428, so  match entry
+03-30 01:47:02.677   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355303224, start 82056368934274, so  match entry
+03-30 01:47:02.684   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355329346, start 82056375450043, so  match entry
+03-30 01:47:02.687   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355355469, start 82056378839428, so  match entry
+03-30 01:47:02.687   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355381591, start 82056381173274, so  match entry
+03-30 01:47:02.687   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355407714, start 82056382609197, so  match entry
+03-30 01:47:02.948   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355433836, start 82056386040351, so  match entry
+03-30 01:47:02.948   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355459959, start 82056389196505, so  match entry
+03-30 01:47:02.948   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355486081, start 82056390297505, so  match entry
+03-30 01:47:02.949   762 13859 V MediaCodec: -- Looking at startdata. presentation 2355512204, start 82056391312197, so  match entry
+03-30 01:47:03.790   762 13859 V MediaCodec: -- Looking at startdata. presentation 2356322000, start 82057227910043, so  match entry
+03-30 01:47:03.793   762 13859 V MediaCodec: -- Looking at startdata. presentation 2356348122, start 82057487991813, so  match entry
+03-30 01:47:03.797   762 13859 V MediaCodec: -- Looking at startdata. presentation 2356374244, start 82057491568890, so  match entry
+03-30 01:47:04.382   762 13859 V MediaCodec: -- Looking at startdata. presentation 2357131795, start 82058075638274, so  match entry
+03-30 01:47:05.782   762 13857 V AudioSink: getPlayedOutDurationUs(1636025637) nowUs(82059483729) frames(72148338) framesAt(82059474826)
+03-30 01:47:10.858   762 13857 V AudioSink: getPlayedOutDurationUs(1641101563) nowUs(82064559677) frames(72371142) framesAt(82064527093)
+03-30 01:47:11.111  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:47:11.748   762 13859 V MediaCodec: -- Looking at startdata. presentation 2364419959, start 82065435637505, so  match entry
+03-30 01:47:14.543   762 13857 V AudioSink: getPlayedOutDurationUs(1644786469) nowUs(82068244579) frames(72534818) framesAt(82068238563)
+03-30 01:47:16.197   762 13857 V AudioSink: getPlayedOutDurationUs(1646440759) nowUs(82069898837) frames(72605633) framesAt(82069844313)
+03-30 01:47:20.761   762 13859 V MediaCodec: -- Looking at startdata. presentation 2373484448, start 82074456362198, so  match entry
+03-30 01:47:21.871   762 13859 V MediaCodec: -- Looking at startdata. presentation 2374477102, start 82075563024814, so  match entry
+03-30 01:47:23.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2376593020, start 82077563382275, so  match entry
+03-30 01:47:25.563   762 13857 V AudioSink: getPlayedOutDurationUs(1655806916) nowUs(82079265015) frames(73020034) framesAt(82079241182)
+03-30 01:47:26.126   762 13857 V AudioSink: getPlayedOutDurationUs(1656369253) nowUs(82079827337) frames(73045676) framesAt(82079822619)
+03-30 01:47:26.148   762 13857 V AudioSink: getPlayedOutDurationUs(1656391268) nowUs(82079849352) frames(73045676) framesAt(82079822619)
+03-30 01:47:27.288   762 13859 V MediaCodec: -- Looking at startdata. presentation 2379936693, start 82080975637814, so  match entry
+03-30 01:47:28.111   762 13859 V MediaCodec: -- Looking at startdata. presentation 2380563632, start 82081551427814, so  match entry
+03-30 01:47:28.118   762 13859 V MediaCodec: -- Looking at startdata. presentation 2380642000, start 82081556392891, so  match entry
+03-30 01:47:29.811   762 13857 V AudioSink: getPlayedOutDurationUs(1660054563) nowUs(82083512675) frames(73208129) framesAt(82083506388)
+03-30 01:47:32.957   762 13859 V MediaCodec: -- Looking at startdata. presentation 2385631387, start 82086653549737, so  match entry
+03-30 01:47:33.215   762 13857 V AudioSink: getPlayedOutDurationUs(1663458048) nowUs(82086916146) frames(73356397) framesAt(82086868460)
+03-30 01:47:37.712  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:47:40.871   762 13859 V MediaCodec: -- Looking at startdata. presentation 2393572612, start 82094563860661, so  match entry
+03-30 01:47:43.105   762 13859 V MediaCodec: -- Looking at startdata. presentation 2395636285, start 82096538801276, so  match entry
+03-30 01:47:44.532   762 13857 V AudioSink: getPlayedOutDurationUs(1674775631) nowUs(82098233712) frames(73856627) framesAt(82098211527)
+03-30 01:47:45.388   762 13857 V AudioSink: getPlayedOutDurationUs(1675631881) nowUs(82099089987) frames(73895194) framesAt(82099086087)
+03-30 01:47:46.516   762 13859 V MediaCodec: -- Looking at startdata. presentation 2399058326, start 82099956315354, so  match entry
+03-30 01:47:48.511   762 13859 V MediaCodec: -- Looking at startdata. presentation 2401252612, start 82102205563277, so  match entry
+03-30 01:47:49.927   762 13859 V MediaCodec: -- Looking at startdata. presentation 2402610979, start 82103614356354, so  match entry
+03-30 01:47:53.029   762 13857 V AudioSink: getPlayedOutDurationUs(1683272463) nowUs(82106730563) frames(74231214) framesAt(82106705582)
+03-30 01:48:00.072   762 13859 V MediaCodec: -- Looking at startdata. presentation 2412563632, start 82113514163508, so  match entry
+03-30 01:48:00.370   762 13857 V AudioSink: getPlayedOutDurationUs(1690613755) nowUs(82114071875) frames(74555639) framesAt(82114062178)
+03-30 01:48:03.263   762 13859 V MediaCodec: -- Looking at startdata. presentation 2415959551, start 82116956362355, so  match entry
+03-30 01:48:04.312  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:48:10.016   762 13859 V MediaCodec: -- Looking at startdata. presentation 2422594653, start 82123460563355, so  match entry
+03-30 01:48:10.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2423561183, start 82124563556663, so  match entry
+03-30 01:48:12.544   762 13857 V AudioSink: getPlayedOutDurationUs(1702787524) nowUs(82126245637) frames(75091967) framesAt(82126223804)
+03-30 01:48:13.123   762 13859 V MediaCodec: -- Looking at startdata. presentation 2425650979, start 82126563139124, so  match entry
+03-30 01:48:16.213   762 13857 V AudioSink: getPlayedOutDurationUs(1706456303) nowUs(82129914398) frames(75252912) framesAt(82129873333)
+03-30 01:48:17.066   762 13859 V MediaCodec: -- Looking at startdata. presentation 2429569346, start 82130505639663, so  match entry
+03-30 01:48:20.462   762 13859 V MediaCodec: -- Looking at startdata. presentation 2432939142, start 82133900563894, so  match entry
+03-30 01:48:22.183   762 13859 V MediaCodec: -- Looking at startdata. presentation 2434846081, start 82135872756356, so  match entry
+03-30 01:48:25.298   762 13859 V MediaCodec: -- Looking at startdata. presentation 2437928530, start 82138993563587, so  match entry
+03-30 01:48:26.701   762 13859 V MediaCodec: -- Looking at startdata. presentation 2439286897, start 82140146256356, so  match entry
+03-30 01:48:27.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2440279551, start 82141256831433, so  match entry
+03-30 01:48:27.834   762 13857 V AudioSink: getPlayedOutDurationUs(1718077559) nowUs(82141535633) frames(75766571) framesAt(82141520908)
+03-30 01:48:30.089   762 13859 V MediaCodec: -- Looking at startdata. presentation 2442761183, start 82143781456356, so  match entry
+03-30 01:48:30.940  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:48:31.480   762 13859 V MediaCodec: -- Looking at startdata. presentation 2444067306, start 82145173056356, so  match entry
+03-30 01:48:31.768   762 13857 V AudioSink: getPlayedOutDurationUs(1722010949) nowUs(82145469069) frames(75940124) framesAt(82145456396)
+03-30 01:48:32.041   762 13859 V MediaCodec: -- Looking at startdata. presentation 2444563632, start 82145479417279, so  match entry
+03-30 01:48:33.154   762 13859 V MediaCodec: -- Looking at startdata. presentation 2445634653, start 82146592562433, so  match entry
+03-30 01:48:41.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2454124448, start 82155007838280, so  match entry
+03-30 01:48:42.088   762 13857 V AudioSink: getPlayedOutDurationUs(1732331467) nowUs(82155789563) frames(76393335) framesAt(82155733266)
+03-30 01:48:42.621   762 13857 V AudioSink: getPlayedOutDurationUs(1732864153) nowUs(82156322278) frames(76418423) framesAt(82156302183)
+03-30 01:48:42.626   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455221591, start 82156325433895, so  match entry
+03-30 01:48:42.629   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455247714, start 82156326756280, so  match entry
+03-30 01:48:42.629   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455273836, start 82156327415280, so  match entry
+03-30 01:48:42.630   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455299959, start 82156328765434, so  match entry
+03-30 01:48:42.631   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455326081, start 82156329385280, so  match entry
+03-30 01:48:42.632   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455352204, start 82156331030357, so  match entry
+03-30 01:48:42.889   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455378326, start 82156332251511, so  match entry
+03-30 01:48:42.889   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455404448, start 82156332888511, so  match entry
+03-30 01:48:42.889   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455430571, start 82156333248742, so  match entry
+03-30 01:48:42.889   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455456693, start 82156344061357, so  match entry
+03-30 01:48:43.153   762 13859 V MediaCodec: -- Looking at startdata. presentation 2455639551, start 82156596790895, so  match entry
+03-30 01:48:43.695   762 13859 V MediaCodec: -- Looking at startdata. presentation 2456318734, start 82157392473819, so  match entry
+03-30 01:48:43.695   762 13859 V MediaCodec: -- Looking at startdata. presentation 2456344857, start 82157393010665, so  match entry
+03-30 01:48:43.697   762 13859 V MediaCodec: -- Looking at startdata. presentation 2456370979, start 82157395047434, so  match entry
+03-30 01:48:43.697   762 13859 V MediaCodec: -- Looking at startdata. presentation 2456397102, start 82157395446434, so  match entry
+03-30 01:48:46.355   762 13859 V MediaCodec: -- Looking at startdata. presentation 2458826489, start 82159798056357, so  match entry
+03-30 01:48:56.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469066489, start 82169996805512, so  match entry
+03-30 01:48:56.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469092612, start 82169997668281, so  match entry
+03-30 01:48:56.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469118734, start 82170257234281, so  match entry
+03-30 01:48:56.563   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469144857, start 82170258371896, so  match entry
+03-30 01:48:56.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469588938, start 82170563041435, so  match entry
+03-30 01:48:57.123   762 13859 V MediaCodec: -- Looking at startdata. presentation 2469615061, start 82170563952512, so  match entry
+03-30 01:48:57.514  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:48:57.955   762 13857 V AudioSink: getPlayedOutDurationUs(1748198458) nowUs(82171656563) frames(77093240) framesAt(82171604136)
+03-30 01:48:59.090   762 13857 V AudioSink: getPlayedOutDurationUs(1749333089) nowUs(82172791173) frames(77144054) framesAt(82172756360)
+03-30 01:49:01.371   762 13857 V AudioSink: getPlayedOutDurationUs(1751614465) nowUs(82175072563) frames(77245546) framesAt(82175057780)
+03-30 01:49:01.931   762 13857 V AudioSink: getPlayedOutDurationUs(1752174772) nowUs(82175632877) frames(77270794) framesAt(82175630304)
+03-30 01:49:01.942   762 13859 V MediaCodec: -- Looking at startdata. presentation 2474656693, start 82175633220743, so  match entry
+03-30 01:49:01.943   762 13859 V MediaCodec: -- Looking at startdata. presentation 2474682816, start 82175634769358, so  match entry
+03-30 01:49:02.200   762 13859 V MediaCodec: -- Looking at startdata. presentation 2474708938, start 82175639234743, so  match entry
+03-30 01:49:03.931   762 13859 V MediaCodec: -- Looking at startdata. presentation 2476563632, start 82177622952897, so  match entry
+03-30 01:49:09.869   762 13859 V MediaCodec: -- Looking at startdata. presentation 2482519551, start 82183563970589, so  match entry
+03-30 01:49:10.563 17719 17719 I _V_LIB-Security-MobileAgentManager-com.android.bbklog: sdk_version=securitysdk-v1.4.6-aabb2dd,initialize use_time=27 ms
+03-30 01:49:11.351   563   653 D AudioALSAStreamOut: standby(), flag 8
+03-30 01:49:11.351   563   653 D AudioALSAStreamOut: standbyStreamOut(), halRequest 0, mDestroy 0, flag 8
+03-30 01:49:11.351   563   653 D AudioALSAStreamOut: close(), flags 8
+03-30 01:49:11.351   563   653 D AudioALSAPlaybackHandlerNormal: +close(), flag = 8, mDevice = 0x2
+03-30 01:49:11.352   563   653 D AudioALSAVAFXManager: deinitPlayBackHandler ePlaybackHandlerType 10
+03-30 01:49:11.352   563   653 D AudioALSAVAFXManager: +deinit
+03-30 01:49:11.352   563   653 D AudioALSAVAFXManager: vafx_speaker_boost_deinit+
+03-30 01:49:11.357   563   653 D AudioALSAVAFXManager: vafx_speaker_boost_deinit-
+03-30 01:49:11.357   563   653 D AudioALSAVAFXManager: -deinit
+03-30 01:49:11.357   563   653 D AudioALSAVAFXManager: ~AudioALSAVAFXCtrl ePlaybackHandlerType 10
+03-30 01:49:11.357   563   653 I AudioALSAPlaybackHandlerNormal: close_audiodsp() this (0xebe13080) 0xe9aeeb00 0xe9d10dc0
+03-30 01:49:11.357   563   653 D AudioALSAHardwareResourceManager: +stopOutputDevice(), mOutputDevices = 0x2, mStartOutputDevicesCount = 1, playbackhandler size 1
+03-30 01:49:11.357   563   653 D AudioALSADeviceConfigManager: ApplyDeviceTurnoffSequenceByName(), DeviceName = ext_speaker_output descriptor->DeviceStatusCounter = 1
+03-30 01:49:11.362   563   653 D AudioALSADeviceConfigManager: ApplyDeviceTurnoffSequenceByName(), DeviceName = speaker_output descriptor->DeviceStatusCounter = 1
+03-30 01:49:11.363   563   653 D AudioALSADeviceConfigManager: ApplyDeviceTurnoffSequenceByName(), DeviceName = voice_speaker_output descriptor->DeviceStatusCounter = 0
+03-30 01:49:11.363   563   653 W AudioALSADeviceConfigManager: ApplyDeviceTurnoffSequenceByName(), DeviceName = voice_speaker_output DeviceStatusCounter < 0
+03-30 01:49:11.367   563   653 D AudioALSAPlaybackHandlerBase: -closePcmDriver(), mPcm = 0x0
+03-30 01:49:11.368   563   653 D AudioALSAPlaybackHandlerNormal: SetLowJitterMode(), bypass low jitter mode, bEnable = 0, device = 0x2, SampleRate = 48000
+03-30 01:49:11.368   563   653 D AudioALSAPlaybackHandlerBase: DestroyAurisysLibManager()
+03-30 01:49:11.368   563   653 D aurisys_lib_handler: aurisys_arsi_destroy_handler(), lib_name mtk_bessound, 0xe9d95400, arsi_destroy_handler, arsi_handler = 0xe982c200, retval = 0
+03-30 01:49:11.368   563   653 D aurisys_lib_manager: delete_aurisys_lib_manager(), manager 0xed765490
+03-30 01:49:11.371   563   653 D [Awinic]:  Reset Done !
+03-30 01:49:11.371   563   653 D AudioALSAPlaybackHandlerNormal: -close()
+03-30 01:49:11.371   563   653 D [Awinic]:  End Done !
+03-30 01:49:13.983  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:49:13.984  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:49:24.124  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:49:50.724  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:49:50.739  1520  1563 I ActivityManager: Killing 7098:com.facebook.orca/u0a208 (adj 945): empty for 1803s
+03-30 01:49:50.748  1520  1563 E _V_VivoPerfManager: VivoPerfManager() Ux Perf: Exception = java.lang.ClassNotFoundException: com.qualcomm.qti.UxPerformance
+03-30 01:49:50.749  1520  1563 I ANDR-VIVO-PERF: perf_ux_engine_events
+03-30 01:50:15.822  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:50:15.822  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:50:17.326  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:50:20.375  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:50:20.376  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.uc.browser.en flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:50:30.894  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{4559cd6 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:50:31.466  1520  1563 D _V_ActivityManager: StartMode packageName = com.uc.browser.en ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{4559cd6 u0a202 BFGS change:active|uncached procs:2 seq(0,0,0)}
+03-30 01:50:43.932  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:51:10.536  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:51:37.137  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:52:03.740  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:52:30.345  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:52:34.563 28031 28031 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.ads.redexgen.X.95@4f082c7sensor=NULL
+03-30 01:52:48.365  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:52:48.365  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:52:56.949  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:53:23.549  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:53:50.154  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:54:16.755  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:54:35.563   805   871 E         : akm_log setv_mag-hdt_ag(msQ4) = 158
+03-30 01:54:35.563 28031 28031 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.ads.redexgen.X.96@1565289sensor=NULL
+03-30 01:54:35.563   805   871 E         : akm_log pg_gyr(d/s*1000): 103, 57, 2634, dt: 158
+03-30 01:54:35.563   805   871 E         : akm_log akl_getv_mag(uT) : -34, -4, 3, Lv: 0
+03-30 01:54:35.563   805   871 E         : akm_log akl_getv_mag(uT) offset: -10, 55, -20
+03-30 01:54:43.357  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:55:09.964  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:55:23.812  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:55:23.812  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:55:36.563  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:56:03.168  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:56:03.182  1520  1563 I ActivityManager: Killing 16675:org.telegram.messenger/u0a207 (adj 975): empty for 1818s
+03-30 01:56:03.188  1520  1563 E _V_VivoPerfManager: VivoPerfManager() Ux Perf: Exception = java.lang.ClassNotFoundException: com.qualcomm.qti.UxPerformance
+03-30 01:56:03.189  1520  1563 I ANDR-VIVO-PERF: perf_ux_engine_events
+03-30 01:56:05.563  1520  2623 V _V_VivoStats: noteWhich 44, arg1 = 1001, arg2 = 2493, name = *telephony-radio*
+03-30 01:56:25.563  1520  2623 V _V_VivoStats: noteWhich 44, arg1 = 1001, arg2 = 2493, name = *telephony-radio*
+03-30 01:56:29.771  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:56:44.712  1520  1563 D _V_ActivityManager: StartMode packageName = com.google.android.gms ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{fba3bda u0a172 BFGS procs:4 seq(0,0,0)}
+03-30 01:56:48.506  1520  1563 D _V_ActivityManager: StartMode packageName = com.vivo.appfilter ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{9908669 1000 PER  procs:22 seq(0,0,0)}
+03-30 01:56:48.506  1520  1563 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.bbklog flg=0x10 (has extras) } to com.vivo.appfilter/.receiver.VivoBringupPkgReceiver
+03-30 01:56:56.374  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:57:22.976  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:57:49.581  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:58:16.182  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:58:42.785  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:59:09.385  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 01:59:35.988  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
+03-30 02:00:02.595  1520  1563 D _V_ActivityManager: StartMode packageName = com.android.stk ,pid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{d1ba7c6 1001 PER  procs:4 seq(0,0,0)}
